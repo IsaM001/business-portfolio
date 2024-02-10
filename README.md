@@ -1,2 +1,3 @@
 # business-portfolio
-Reacta and taiwlind
+React and taiwlind
+Portfilio showcasing services I offer. Made using react and tailwind. 
